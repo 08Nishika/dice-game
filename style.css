@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  text-align: center;
+  background-color: black;
+}
+.dice p{
+  color:orange;
+  font-size: 40px;
+  font-family: Shantell Sans;
+margin-top: -40px;
+}
+h1{
+  color:darkcyan;
+  font-size: 10rem;
+  font-family: 'Sofia';
+}
+.dice{
+  display: inline-block;
+  padding: 30px;
+  padding-top: 10px;
+}
